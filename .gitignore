@@ -49,3 +49,6 @@ site
 
 # vscode database functionality support files
 *.session.sql
+
+#config files 
+app-config.local.yaml
